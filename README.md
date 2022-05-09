@@ -14,5 +14,5 @@
 * Swift [дипломная работа по курсу iOS-разработчик](https://github.com/NGrani/ios-homeworks.git)
 
 Сертификаты:
-*![]()
-
+*![](https://github.com/NGrani/ngrani/blob/main/assets/certificate.pdf)
+*![](https://github.com/NGrani/ngrani/blob/main/assets/of%20Completion.PNG)
