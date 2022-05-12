@@ -14,6 +14,8 @@
 * Swift [дипломная работа по курсу iOS-разработчик](https://github.com/NGrani/ios-homeworks.git)
 
 Сертификаты:
+
+
 Сертификат о прохождении курса Нетологии iOS-разработчик:
 ![](https://github.com/NGrani/ngrani/blob/main/assets/certificate.png)
 Сертификат о прохождении курса GeekBrains Основы языка Pyton:
