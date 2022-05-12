@@ -16,5 +16,7 @@
 Сертификаты:
 Сертификат о прохождении курса Нетологии iOS-разработчик:
 ![](https://github.com/NGrani/ngrani/blob/main/assets/certificate.png)
+Сертификат о прохождении курса GeekBrains Основы языка Pyton:
+![](https://github.com/NGrani/ngrani/blob/main/assets/Сертификат%20pyton.png)
 Сертификат о прохождении курса английского Simpler:
 ![](https://github.com/NGrani/ngrani/blob/main/assets/of%20Completion.PNG)
