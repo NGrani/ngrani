@@ -29,7 +29,17 @@ Hard Skills:
 * Обработка ошибок
 
 Вот что я умею:
-* Swift [дипломная работа по курсу iOS-разработчик](https://github.com/NGrani/ios-homeworks.git)
+*  [Дипломная работа по курсу iOS-разработчик](https://github.com/NGrani/ios-homeworks.git)
+
+*  [Парсинг JSON. Локальное хранение](https://github.com/NGrani/JSON-parsing)
+
+*  [Работа с таблицей и CoreData](https://github.com/NGrani/whats-doing-today)
+
+*  [Работа с календарем и его компонентами](https://github.com/NGrani/WhichWasDay)
+
+*  [Работа с WebView. Запрос в сеть.](https://github.com/NGrani/Browser-example)
+
+*  [Работа со UISlider и UISegemtedControl](https://github.com/NGrani/SimpleConverterDegree) 
 
 **Сертификаты:**
 
