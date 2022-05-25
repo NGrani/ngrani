@@ -12,7 +12,19 @@ Soft Skills:
 * Способность к обучению и развитию
 
 Hard Skills:
-* 
+
+* Auto Layout, Storyboard, верстка из кода
+* Работа с UITableView и UICollectionView
+* Grand Central Dispatch
+* Работа с сетью, получение данных из JSON
+* Сильные и слабые ссылки, ARC, утечки памяти
+* Архитектурные подходы: MVC, MVVM
+* Хранение данных, Core Data
+* Работа с Git
+* UX-дизайн
+* Работа с анимацией и жестами
+* Работа с календарем и его компонентами
+* Обработка ошибок
 
 Вот что я умею:
 * Swift [дипломная работа по курсу iOS-разработчик](https://github.com/NGrani/ios-homeworks.git)
