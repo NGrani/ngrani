@@ -40,7 +40,9 @@ Hard Skills:
 
 *  [Работа с WebView. Запрос в сеть.](https://github.com/NGrani/Browser-example)
 
-*  [Работа со UISlider и UISegemtedControl](https://github.com/NGrani/SimpleConverterDegree) 
+*  [Работа со UISlider и UISegemtedControlj](https://github.com/NGrani/SimpleConverterDegree) 
+
+*  [Работа с фотостоком](https://github.com/NGrani/Fotostock)
 
 **Сертификаты:**
 
