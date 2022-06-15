@@ -28,6 +28,7 @@ Hard Skills:
 * Работа с календарем и его компонентами
 * Обработка ошибок
 * SwiftUI
+* Сторонние библиотеки CocoaPods
 
 Вот что я умею:
 *  [Дипломная работа по курсу iOS-разработчик](https://github.com/NGrani/ios-homeworks.git)
@@ -43,6 +44,8 @@ Hard Skills:
 *  [Работа со UISlider и UISegemtedControlj](https://github.com/NGrani/SimpleConverterDegree) 
 
 *  [Работа с фотостоком](https://github.com/NGrani/Fotostock)
+
+*  [Работа со сторонней библтотекой SnapKit](https://github.com/NGrani/SnapKitUsing)
 
 **Сертификаты:**
 
